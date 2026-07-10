@@ -813,7 +813,7 @@ section {
 }
 
 .blogs {
-  background: var(--light-bg);
+  background-color:#33383b;
 }
 
 .blogs .slide {
@@ -1139,4 +1139,6 @@ footer {
     font-size: 2.5rem;
   }
   
+    
+
 }

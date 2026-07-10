@@ -1,0 +1,49 @@
+<section class="links" id="links">
+
+   <h1 class="heading"> checking on your best choice </h1>
+
+   <div class="box-container">
+
+      <div class="box">
+         <img src="images/bac.jpg" alt="">
+         <h3>ISSAT</h3>
+         <button href="https://issatso.rnu.tn">official website</button>
+      </div>
+
+      <div class="box">
+         <img src="images/mastere.png" alt="">
+         <h3>FSS</h3>
+         <button href="https://issatso.rnu.tn">official website</button>
+      </div>
+
+      <div class="box">
+         <img src="images/doctorate.webp" alt="">
+         <h3>FMM</h3>
+         <button href="https://issatso.rnu.tn">official website</button>
+      </div>
+
+      <div class="box">
+         <img src="images/vacc.jpg" alt="">
+         <h3>FST</h3>
+         <button href="https://issatso.rnu.tn">official website</button>
+      </div>
+     <div class="box">
+         <img src="images/vacc.jpg" alt="">
+         <h3>ESPRIT</h3>
+         <button href="https://issatso.rnu.tn">official website</button>
+      </div>
+     <div class="box">
+         <img src="images/vacc.jpg" alt="">
+         <h3>ISETCH</h3>
+         <button href="https://issatso.rnu.tn">official website</button>
+      </div>
+
+
+
+      
+
+      
+      
+   </div>
+
+</section>
